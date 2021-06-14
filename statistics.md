@@ -7,7 +7,9 @@
 **14:**
 Arrays:
 
-- [x] https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3238/
+- [x] [MaxConsecutiveOnes](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3238/)
+
+---
 
 ## Total:
 
