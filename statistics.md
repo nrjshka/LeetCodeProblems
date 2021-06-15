@@ -19,7 +19,7 @@ Arrays:
 
 ## Need to return in the future
 
-- [] [Squares of a Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3240/)
+- [ ] [Squares of a Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3240/)
 
 ---
 
