@@ -20,6 +20,10 @@ Arrays:
 
 - [x] [Duplicate Zeros](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/)
 
+**17:**
+
+- [x] [Merge Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3253/)
+
 ---
 
 ## Need to return in the future
