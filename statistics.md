@@ -29,13 +29,13 @@ Arrays:
 ## Need to return in the future
 
 - [ ] [Squares of a Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3240/)
-- [] [Duplicate Zeros](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/)
+- [ ] [Duplicate Zeros](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/)
 
 ---
 
 ## Total:
 
-- Solved: 2
+- Solved: 3
 - Solved with help: 0
 - Solved by myself but need attention: 2
 - Need to be done: 0
