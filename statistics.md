@@ -28,7 +28,12 @@ Arrays:
 **18:**
 Arrays:
 
-- [x] [Remove Element]https://leetcode.com/explore/featured/card/fun-with-arrays/526/deleting-items-from-an-array/3247/)
+- [x] [Remove Element](https://leetcode.com/explore/featured/card/fun-with-arrays/526/deleting-items-from-an-array/3247/)
+
+**19:**
+Arrays:
+
+- [x] [Remove Duplicates from Sorted Array](https://leetcode.com/explore/featured/card/fun-with-arrays/526/deleting-items-from-an-array/3248/)
 
 ---
 
@@ -41,7 +46,7 @@ Arrays:
 
 ## Total:
 
-- Solved: 4
+- Solved: 5
 - Solved with help: 0
 - Solved by myself but need attention: 2
 - Need to be done: 0
