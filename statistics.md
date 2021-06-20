@@ -21,8 +21,14 @@ Arrays:
 - [x] [Duplicate Zeros](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/)
 
 **17:**
+Arrays:
 
 - [x] [Merge Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3253/)
+
+**18:**
+Arrays:
+
+- [x] [Remove Element]https://leetcode.com/explore/featured/card/fun-with-arrays/526/deleting-items-from-an-array/3247/)
 
 ---
 
@@ -35,7 +41,7 @@ Arrays:
 
 ## Total:
 
-- Solved: 3
+- Solved: 4
 - Solved with help: 0
 - Solved by myself but need attention: 2
 - Need to be done: 0
