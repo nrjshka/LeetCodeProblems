@@ -35,18 +35,23 @@ Arrays:
 
 - [x] [Remove Duplicates from Sorted Array](https://leetcode.com/explore/featured/card/fun-with-arrays/526/deleting-items-from-an-array/3248/)
 
+**20:**
+
+- [x] [Check If N and Its Double Exist](https://leetcode.com/explore/featured/card/fun-with-arrays/527/searching-for-items-in-an-array/3250/)
+
 ---
 
 ## Need to return in the future
 
 - [ ] [Squares of a Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/521/introduction/3240/)
 - [ ] [Duplicate Zeros](https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3245/)
+- [ ] [Check If N and Its Double Exist](https://leetcode.com/explore/featured/card/fun-with-arrays/527/searching-for-items-in-an-array/3250/)
 
 ---
 
 ## Total:
 
 - Solved: 5
-- Solved with help: 0
+- Solved with help: 1
 - Solved by myself but need attention: 2
 - Need to be done: 0
