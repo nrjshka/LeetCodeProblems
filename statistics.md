@@ -44,6 +44,11 @@ Arrays:
 
 - [x] [Valid Mountain Array](https://leetcode.com/explore/learn/card/fun-with-arrays/527/searching-for-items-in-an-array/3251/)
 
+**29:**
+Arrays:
+
+- [x] [Replace Elements with Greatest Element on Right Side](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3259/)
+
 ---
 
 ## Need to return in the future
@@ -57,7 +62,7 @@ Arrays:
 
 ## Total:
 
-- Solved: 5
+- Solved: 6
 - Solved with help: 1
 - Solved by myself but need attention: 3
 - Need to be done: 0
