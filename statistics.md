@@ -53,6 +53,7 @@ Arrays:
 Arrays:
 
 - [x] [Remove Duplicates from Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3258/)
+- [x] [Move Zeroes](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3157/)
 
 ---
 
@@ -67,7 +68,7 @@ Arrays:
 
 ## Total:
 
-- Solved: 7
+- Solved: 8
 - Solved with help: 1
 - Solved by myself but need attention: 3
 - Need to be done: 0
