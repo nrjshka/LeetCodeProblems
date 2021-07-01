@@ -55,6 +55,13 @@ Arrays:
 - [x] [Remove Duplicates from Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3258/)
 - [x] [Move Zeroes](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3157/)
 
+#### July:
+
+**1:**
+Arrays:
+
+- [x] [Sort Array By Parity](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3260/)
+
 ---
 
 ## Need to return in the future
@@ -68,7 +75,7 @@ Arrays:
 
 ## Total:
 
-- Solved: 8
+- Solved: 9
 - Solved with help: 1
 - Solved by myself but need attention: 3
 - Need to be done: 0
