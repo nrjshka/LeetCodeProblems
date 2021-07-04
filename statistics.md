@@ -62,6 +62,11 @@ Arrays:
 
 - [x] [Sort Array By Parity](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3260/)
 
+**4:**
+Arrays:
+
+- [x] [Height Checker](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3228/)
+
 ---
 
 ## Need to return in the future
@@ -75,7 +80,7 @@ Arrays:
 
 ## Total:
 
-- Solved: 9
+- Solved: 10
 - Solved with help: 1
 - Solved by myself but need attention: 3
 - Need to be done: 0
