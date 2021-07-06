@@ -72,6 +72,11 @@ Arrays:
 
 - [x] [Squares of A Sorted Array](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3574/)
 
+**6:**
+Binary Tree:
+
+- [x] [Binary Tree Preorder Traversal](https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/928/)
+
 ---
 
 ## Need to return in the future
@@ -85,7 +90,7 @@ Arrays:
 
 ## Total:
 
-- Solved: 10
+- Solved: 11
 - Solved with help: 1
 - Solved by myself but need attention: 3
 - Need to be done: 0
