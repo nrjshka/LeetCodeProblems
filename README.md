@@ -81,6 +81,7 @@ Binary Tree:
 Binary Tree:
 
 - [x] [Binary Tree Inorder Traversal](https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/929/)
+- [x] [Binary Tree Postorder Traversal](https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/930/)
 
 ---
 
@@ -91,6 +92,7 @@ Binary Tree:
 - [ ] [Check If N and Its Double Exist](https://leetcode.com/explore/featured/card/fun-with-arrays/527/searching-for-items-in-an-array/3250/)
 - [ ] [Valid Mountain Array](https://leetcode.com/explore/learn/card/fun-with-arrays/527/searching-for-items-in-an-array/3251/)
 - [ ] [Binary Tree Inorder Traversal](https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/929/)
+- [ ] [Binary Tree Postorder Traversal](https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/930/)
 
 ---
 
@@ -99,4 +101,4 @@ Binary Tree:
 - Solved: 11
 - Solved with help: 2
 - Solved by myself but need attention: 3
-- Need to be done: 0
+- Need to be done: 1
