@@ -87,6 +87,7 @@ Binary Tree:
 Binary Tree:
 
 - [x] [Binary Tree Level Order Traversal](https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/931/)
+- [x] [Maximum Depth of Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/17/solve-problems-recursively/535/)
 
 ---
 
@@ -103,7 +104,7 @@ Binary Tree:
 
 ## Total:
 
-- Solved: 12
+- Solved: 13
 - Solved with help: 2
 - Solved by myself but need attention: 3
 - Need to be done: 1
