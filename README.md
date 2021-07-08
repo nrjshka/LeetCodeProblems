@@ -83,6 +83,11 @@ Binary Tree:
 - [x] [Binary Tree Inorder Traversal](https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/929/)
 - [x] [Binary Tree Postorder Traversal](https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/930/)
 
+**8:**
+Binary Tree:
+
+- [x] [Binary Tree Level Order Traversal](https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/931/)
+
 ---
 
 ## Need to return in the future
@@ -98,7 +103,7 @@ Binary Tree:
 
 ## Total:
 
-- Solved: 11
+- Solved: 12
 - Solved with help: 2
 - Solved by myself but need attention: 3
 - Need to be done: 1
