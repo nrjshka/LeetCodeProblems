@@ -94,6 +94,11 @@ Binary Tree:
 
 - [x] [Symmetric Tree](https://leetcode.com/explore/learn/card/data-structure-tree/17/solve-problems-recursively/536/)
 
+**10:**
+Binary Tree:
+
+- [x] [Path Sum](https://leetcode.com/explore/learn/card/data-structure-tree/17/solve-problems-recursively/537/)
+
 ---
 
 ## Need to return in the future
@@ -109,7 +114,7 @@ Binary Tree:
 
 ## Total:
 
-- Solved: 14
+- Solved: 15
 - Solved with help: 2
 - Solved by myself but need attention: 3
 - Need to be done: 1
