@@ -99,6 +99,11 @@ Binary Tree:
 
 - [x] [Path Sum](https://leetcode.com/explore/learn/card/data-structure-tree/17/solve-problems-recursively/537/)
 
+**11:**
+Binary Tree:
+
+- [x] [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/explore/learn/card/data-structure-tree/133/conclusion/942/)
+
 ---
 
 ## Need to return in the future
@@ -109,12 +114,13 @@ Binary Tree:
 - [ ] [Valid Mountain Array](https://leetcode.com/explore/learn/card/fun-with-arrays/527/searching-for-items-in-an-array/3251/)
 - [ ] [Binary Tree Inorder Traversal](https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/929/)
 - [ ] [Binary Tree Postorder Traversal](https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/930/)
+- [ ] [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/explore/learn/card/data-structure-tree/133/conclusion/942/)
 
 ---
 
 ## Total:
 
 - Solved: 15
-- Solved with help: 2
+- Solved with help: 3
 - Solved by myself but need attention: 3
 - Need to be done: 1
