@@ -104,6 +104,11 @@ Binary Tree:
 
 - [x] [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/explore/learn/card/data-structure-tree/133/conclusion/942/)
 
+**12:**
+Binary Tree:
+
+- [x] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/explore/learn/card/data-structure-tree/133/conclusion/943/)
+
 ---
 
 ## Need to return in the future
@@ -120,7 +125,7 @@ Binary Tree:
 
 ## Total:
 
-- Solved: 15
+- Solved: 16
 - Solved with help: 3
 - Solved by myself but need attention: 3
 - Need to be done: 1
