@@ -6,7 +6,13 @@
  *     this.right = (right===undefined ? null : right)
  * }
  */
-var buildTreeReverse = function (inorder, postorder) {
+
+/**
+ * @param {number[]} inorder
+ * @param {number[]} postorder
+ * @return {TreeNode}
+ */
+var buildTree = function (inorder, postorder) {
   if (!inorder.length) {
     return null;
   }
@@ -22,23 +28,7 @@ var buildTreeReverse = function (inorder, postorder) {
 
   return {
     val: inorder[rootIndexInorder],
-    left: buildTreeReverse(inorder.slice(0, rootIndexInorder), postorder),
-    right: buildTreeReverse(inorder.slice(rootIndexInorder + 1), postorder),
-  };
-};
-
-/**
- * @param {number[]} inorder
- * @param {number[]} postorder
- * @return {TreeNode}
- */
-var buildTree = function (inorder, postorder) {
-  const root = postorder.pop();
-  const rootIndex = inorder.findIndex((value) => value === root);
-
-  return {
-    val: root,
-    left: buildTreeReverse(inorder.slice(0, rootIndex), postorder),
-    right: buildTreeReverse(inorder.slice(rootIndex + 1), postorder),
+    left: buildTree(inorder.slice(0, rootIndexInorder), postorder),
+    right: buildTree(inorder.slice(rootIndexInorder + 1), postorder),
   };
 };
